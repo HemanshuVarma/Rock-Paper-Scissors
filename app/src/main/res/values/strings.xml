@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Rock Paper Scissor</string>
+    <string name="searching">Searching…</string>
+    <string name="you">You (codeName)</string>
+    <string name="opponent">Opponent (codeName)</string>
+    <string name="colon">:</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="find_opponent">Find Opponent</string>
 </resources>
